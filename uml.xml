@@ -1,0 +1,15 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="Flash" categories="Fields;Constructors;Methods;Properties" />
+        <entry id="Gradle" categories="Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes;Borderless View" />
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
+        <entry id="MAVEN" categories="Show Conflicts/Duplicates;Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes;Borderless View" />
+        <entry id="MODULES" categories="Libraries;Borderless View" />
+        <entry id="SPRING" categories="Show Neighbours of Selected Nodes;Borderless View" />
+        <entry id="SpringLocalModels" categories="Show library models" />
+      </map>
+    </option>
+  </component>
+</application>

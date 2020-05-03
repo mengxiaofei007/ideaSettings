@@ -1,6 +1,6 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="annotation.hints" />
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
     <settingsMapElement>
       <JAVA.annotation.hints>
         <Settings>

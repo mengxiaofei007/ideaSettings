@@ -122,6 +122,14 @@
           <option name="url" value="https://gitee.com/mengxiaofei/architect-awesome.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/realpdai/springboot-javafx-app-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JinyKafe/JavaFX_CRUD_Application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/GitHub" />

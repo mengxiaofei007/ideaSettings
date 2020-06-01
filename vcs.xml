@@ -130,9 +130,17 @@
           <option name="url" value="https://github.com/JinyKafe/JavaFX_CRUD_Application.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.40.63.70:8090/zhx-mall/app-biz-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.40.63.70:8090" />
+          <option name="userName" value="lucaszhou" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/GitHub" />
+    <option name="cloneParentDir" value="D:\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

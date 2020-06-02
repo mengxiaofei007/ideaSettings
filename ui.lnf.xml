@@ -35,7 +35,4 @@
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
-  <component name="UISettings">
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-  </component>
 </application>

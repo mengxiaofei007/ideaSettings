@@ -1,17 +1,15 @@
 <templateSet group="mygroup">
-  <template name="add" value="/**&#10; * &#10;* @Description: todo&#10;* @Param  $params$&#10;* @return $return$&#10;* @throws $throws$&#10;* @author zhoujianxin&#10;* @date $DATE$ $time$&#10;*/" description="java方法注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="add" value="/**&#10; * &#10;* @Description: todo&#10;* @Param  $params$&#10;* @return $return$&#10;* @throws $throws$&#10;* @author zhoujianxin&#10;* @date $DATE$&#10;*/" description="java方法注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="params" expression="methodParameters()" defaultValue="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i&lt;(params.size()-1)){result+=' * @param ' + params[i] + ' : ' + '\\n'}else{result+=' * @param ' + params[i] + ' : '}}; return result;}&quot;, methodParameters());" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <variable name="throws" expression="" defaultValue="null" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="addJavaDoc" value="/**&#10; *&#10; * @Description: todo&#10; * @author zhoujianxin&#10; * @date $DATE$ $time$&#10; */" description="java类注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="addJavaDoc" value="/**&#10; *&#10; * @Description: todo&#10; * @author zhoujianxin&#10; * @date $DATE$&#10; */" description="java类注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

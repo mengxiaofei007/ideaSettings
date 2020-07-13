@@ -178,6 +178,26 @@
           <option name="url" value="https://gitee.com/baomidou/mybatisplus-spring-boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://jdo-gerrit.aijidou.com:29418/luxgen_obu_dr_transport" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jdo-gerrit.aijidou.com:80/CacheDemo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jdo-gerrit.aijidou.com:80" />
+          <option name="userName" value="lucaszhou" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jdo-gerrit.aijidou.com:80/luxgen_obu_dr_transport" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lucaszhou@jdo-gerrit.aijidou.com:80/a/All-Users" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\projects" />

@@ -234,6 +234,10 @@
           <option name="url" value="https://gitlab.porsche-preview.cn/porsche-digital-china/charging-services-china/smamo-charging-parking-operator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.porsche-preview.cn/porsche-digital-china/shared-service/ss-backend-order-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\projects" />

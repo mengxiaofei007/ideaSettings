@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="app" type="Erlang/OTP app" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

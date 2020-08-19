@@ -270,6 +270,10 @@
           <option name="url" value="https://gitlab.porsche-preview.cn/porsche-digital-china/pdc-configuration/pdc-infrastructure-config-repo-prod.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.porsche-preview.cn/porsche-digital-china/pdc-configuration/pdc-infrastructure-config-repo-staging.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\newProjects" />

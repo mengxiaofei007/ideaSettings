@@ -182,9 +182,13 @@
           <option name="url" value="http://gitlab.porsche-preview.cn" />
           <option name="userName" value="lucaszhou@jidouauto.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-cloud/spring-cloud-sleuth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/OneDrive/IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

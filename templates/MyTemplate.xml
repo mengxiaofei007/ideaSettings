@@ -1,0 +1,11 @@
+<templateSet group="MyTemplate">
+  <template name="**" value=" * @description TODO&#10; * @param $param$&#10; * @return $return$&#10; * @date $time$ $date$&#10; * @author LucasZhou&#10; **/&#10;&#10;" description="给类或者方法添加注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="param" expression="" defaultValue="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {if(params[i] == '') return result;if(i==0) result += '\\n'; result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n' : '')}; return result&quot;, methodParameters()) " alwaysStopAt="false" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

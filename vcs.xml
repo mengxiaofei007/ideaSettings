@@ -218,6 +218,10 @@
           <option name="url" value="https://github.com/wangguobo/demo-spring-webflux-api-gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bazelbuild/examples" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/OneDrive/IdeaProjects" />

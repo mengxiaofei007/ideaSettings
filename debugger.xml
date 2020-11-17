@@ -288,7 +288,9 @@
       <option name="showLibraryStackFrames" value="false" />
       <sort-values>true</sort-values>
     </data-views>
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>

@@ -36,7 +36,7 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="IDE_AA_TYPE" value="灰度" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_WIDTH2" value="1151" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
   </component>

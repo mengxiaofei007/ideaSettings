@@ -4,6 +4,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="CP请求枚举" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

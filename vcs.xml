@@ -238,6 +238,10 @@
           <option name="url" value="http://lucaszhou@jdo-gerrit.aijidou.com:80/a/jidou_backend_application_courier" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.porsche-preview.cn/porsche-digital-china/library/spring-web-support-library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\EDZ\Documents\OneDrive\IdeaProjects" />

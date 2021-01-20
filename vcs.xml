@@ -266,6 +266,10 @@
           <option name="url" value="https://github.com/dadiyang/java-stomp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ityouknow/spring-boot-leaning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\EDZ\Documents\OneDrive\IdeaProjects" />
